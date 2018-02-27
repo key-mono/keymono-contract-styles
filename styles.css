@@ -1,7 +1,10 @@
 .contract-template {
-
+  font-family: 'CerebriSans';
+  size: 16px;
 }
 
-.user-input {
-
+.contract-template .user-input {
+  font-size: 110%;
+  font-weight: bold;
+  color: #279bf4;
 }
